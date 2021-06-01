@@ -55,3 +55,5 @@ _***I feel guilty asking my Mentor for help, is it okay to ask?***_ Again, mento
 _***It's pointless having a mentor outside my company, why bother?***_ Mentors provide guidance, interpretation, and advice based on the information you give them.  They won't be in the room when you take action, but they can help provide clarity.  The benefit of a mentor outside your company is that they can provide the objective view based on the data you give. 
 
 _***I've got a tech question, can I ask that?***_ Yeah, feel free to ask those sort of questions in the #topic-* sections.  See the first FAQ on what is Mentoring to get a better understanding of what sort questions should be asked.  *How do I use tech A?*, is a general topic.  *How do I choose between tech A and B?* is a much better mentoring topic.
+
+_***What do Mentors get out of this?***_ I can't talk for all Mentors, but the value I personally get is giving back, and the ability to work through *many* more scenarios that I would professionally.
