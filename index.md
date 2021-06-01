@@ -44,8 +44,14 @@ It helps to share stories and personal experiences to help cement those relation
 
 ## Some Common Questions/Concerns
 
-**Why would a Mentor care about me?** Mentors on Blind Mentors have *selected to be involved as a mentor*, they have chosen to put themselves in a situation where they can care for and help the community.  Don't project yourself onto mentors.
+_***What is Mentoring?***_ We've seen lots of different views on what mentoring is.  At least within the contet of Blind Mentors, mentoring is the mutual professional support between a Mentee and Mentor.  In general, the Mentor may have more experience, background, or awareness of a particular domain.  The Mentee is faced with problems that the Mentor may have seen and can provide advice.  Think of Mentoring as a "Advice/Sounding Board" type relationship, rather than a "Teacher/Student" type relationship.
 
-**I feel guilty asking my Mentor for help, is it okay to ask?** Again, mentors have chosen to be involved.  The mentor/mentee should negotiate the type/method/frequency of communication and stick to it.  As a relationship, discussions on boundaries are important.
+_***I've never done this before, where do I start?***_ Social awkwardness is totally cool and okay.   If you don't feel comfortable reaching out or posting don't sweat it.  We've got a #mentee-l4mentor-lounge that is Role based.  Just by following step 2 above, 
 
-**It's pointless having a mentor outside my company, why bother?** Mentors provide guidance, interpretation, and advice based on the information you give them.  They won't be in the room when you take action, but they can help provide clarity.  The benefit of a mentor outside your company is that they can provide the objective view based on the data you give. 
+_***Why would a Mentor care about me?***_ Mentors on Blind Mentors have *selected to be involved as a mentor*, they have chosen to put themselves in a situation where they can care for and help the community.  Don't project yourself onto mentors.
+
+_***I feel guilty asking my Mentor for help, is it okay to ask?***_ Again, mentors have chosen to be involved.  The mentor/mentee should negotiate the type/method/frequency of communication and stick to it.  As a relationship, discussions on boundaries are important.
+
+_***It's pointless having a mentor outside my company, why bother?***_ Mentors provide guidance, interpretation, and advice based on the information you give them.  They won't be in the room when you take action, but they can help provide clarity.  The benefit of a mentor outside your company is that they can provide the objective view based on the data you give. 
+
+_***I've got a tech question, can I ask that?***_ Yeah, feel free to ask those sort of questions in the #topic-* sections.  See the first FAQ on what is Mentoring to get a better understanding of what sort questions should be asked.  *How do I use tech A?*, is a general topic.  *How do I choose between tech A and B?* is a much better mentoring topic.
