@@ -27,7 +27,7 @@ Now that we've got the rules and roles worked out, we'll wander through the expe
 3. Announce yourself if you are comfortable
   1. In #looking-for-mentee announce yourself and what makes you unique
   2. In #looking-for-mentor announce yourself and what support you are looking for
-4. Look for a match yourself in #looking-for-mentee and #looking-for-mentor
+4. Look for a match yourself in #looking-for-mentee and #looking-for-mentor, or if you see someone in a chat that has the **Mentor L4Mentee** that you think would be good, feel free to directly connec.
 5. Connect with your partner in a DM
 
 ## Some simple best practices
@@ -38,6 +38,9 @@ It helps to share stories and personal experiences to help cement those relation
 - Mentorship is built on structure and consistency.   Find a cadence for focused discussions works best, bi-weekly or monthly structured meetings will help allow time for the advice/feedback to be put in practice.
 - Mentorship is built on advice, not direction.  The mentee has a situation, the mentor tries to provide insight, understanding or clarity on that situation.  The mentee still is responsible for their own decisions.  
 - Mentorship is a long haul relationship.  Strong mentoring relationships are like fine wine, they improve with age and cultivation.
+
+## Our channels
+- **#looking-for-\*** - rooms to look to connect with 
 
 ## Some Common Questions/Concerns
 
