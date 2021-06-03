@@ -28,7 +28,7 @@ Now that we've got the rules and roles worked out, we'll wander through the expe
   1. In #looking-for-mentee announce yourself and what experiences/skills makes you unique
   2. In #looking-for-mentor announce yourself and what support you are looking for
 4. Look for a match yourself in #looking-for-mentee and #looking-for-mentor, or if you see someone in a chat that has the **Mentor L4Mentee** that you think would be good, feel free to directly connect.
-5. Connect with your partner in a DM
+5. Although you can connect with a DM, we recommend creating a group DM to allow you to add others.  If introduced by a **Matcher** they will typically invite both of you to a room.
 
 ## Some simple best practices
 - Mentorship is built on trust.  As such there is no heirarchy other than a professional relationship between two people.  
@@ -39,8 +39,32 @@ It helps to share stories and personal experiences to help cement those relation
 - Mentorship is built on advice, not direction.  The mentee has a situation, the mentor tries to provide insight, understanding or clarity on that situation.  The mentee still is responsible for their own decisions.  
 - Mentorship is a long haul relationship.  Strong mentoring relationships are like fine wine, they improve with age and cultivation.
 
+## The awkward first dance (or how to get started)
+
+The most difficult part of establishing a mentoring relationship is that awkward first dance.  You don't know them, but now you are in a room with them.  
+Here are some standard icebreakers and who can take those first steps.  Some good icebreakers are...
+- What's on your mind?
+- What's your top three things you want to discuss?
+- My brief bio is xyz, how about you?
+
 ## Our channels
-- **#looking-for-\*** - rooms to look to connect with 
+- **START HERE**
+  - `#getting started` - This is where you land.  We'll be updating this room to guide you through the getting started process 
+  - `#role-selection` - This room is a bot room.  You can auto role by choosing a particular emoji to react with.
+  - `#news-updates` - We'll be providing Blind Mentors updates here
+  - `#general` - The general chat room for random things
+- **LOOKING FOR**
+  - `#looking-for-mentee` - If you are a mentor, you can hock your wares here.
+  - `#looking-for-mentee` - Insert your calls for helkp here
+- **MENTORING**
+  - `#mentor-accolades` - If a mentor has helped you, post it here
+- **DISCUSSION** Topical Discussions
+  - `#topic-mentoring` - Text chat for mentoring
+  - `#topic-interviews` - Interviewing? Want some help?
+  - `#topic-management` - Managers are different beasts. Discuss the good, the bad, the ugly.
+  - `#topic-tech` - Shooting the breeze, chatting about tech.
+- **MODS AND MANAGEMENT**
+  - `#mods` - Having an issue, speak to the mods
 
 ## Some Common Questions/Concerns
 
