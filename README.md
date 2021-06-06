@@ -1,2 +1,2 @@
 # blind-mentors
-Proto-documentation for blind mentors peer mentoring 
+Blind Mentors is a Discord based peer/professional/career/technology mentoring community on discord.
